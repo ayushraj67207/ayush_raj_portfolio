@@ -1,0 +1,100 @@
+body{
+    background-image: url("https://i1.wp.com/1.bp.blogspot.com/-4c90ZKGOGmA/YGFX7DyQK7I/AAAAAAAAIMY/7SOJOJy7WQUOcmDbFA6WEe6zu4sh8IhqQCLcBGAsYHQ/s1920/pastel-kuning-hijau.jpg");
+
+}
+header{
+   
+    margin: 0px;
+    padding: 30px;
+    padding-top: 15px;
+    width: 90%;
+    height: 30px;
+    font-family: 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 19px;
+    text-align: right;
+    
+}
+header a:link{
+    color: #000080;
+    text-decoration: none;
+    padding: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+header a:hover{
+    color: #cc6600;
+    background-color:#ffeb99;
+}
+header a:visited{
+    color: #000080;
+}
+#port{
+    font-family:  'Patua One', 'cursive';
+    padding-right: 350px;
+}
+
+.info{
+    display: inline-block;
+    width: 300px;
+    height: 100px;
+    position: relative;
+    top: 40px;
+    left: 350px;
+}
+.myPic{
+    display: inline-block;
+    width: 280px;
+    height: 280px;
+    position: absolute;
+    left:400px;
+    border-radius: 50% ;
+    
+}
+.hi,.ayu,.web{
+    font-family: 'Patua One', 'cursive';
+}
+.hi{
+    font-size: 25px;
+    color: #000080;
+}
+.ayu{
+    font-size: 35px;
+    color:#ffa64d ;
+    padding-left: 10px;
+}
+.web{
+    font-size: 16px;
+    padding-top: 8px;
+    color:#000080;
+    
+}
+#dev{
+    color: #cc6600;
+}
+.btn{
+    width: 90px;
+    height: 12px;
+    display: inline-block;
+    text-align: center;
+    padding: 8px;
+    padding-bottom: 15px;
+    background-color: #000080;
+    border-radius: 18px;
+    
+}
+.abt{
+    text-decoration: none;
+    color: aliceblue;
+}
+.btn:hover{
+    background-color: #002699;
+}
+.icon i{
+    padding-right: 30px;
+    padding-top: 20px;
+    font-size: 1.8em;
+    color: black;
+}
+.icon i:hover{
+    color: #002699;
+}
